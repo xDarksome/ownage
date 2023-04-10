@@ -1,0 +1,10 @@
+[package]
+name = "ownage"
+version = "0.1.0"
+authors = ["Darksome dev@darkso.me"]
+edition = "2021"
+homepage = "https://github.com/xDarksome/ownage"
+repository = "https://github.com/xDarksome/ownage"
+license = "MIT OR Apache-2.0"
+keywords = ["clone", "closure", "own", "utility", "rust"]
+categories = ["rust-patterns"]
